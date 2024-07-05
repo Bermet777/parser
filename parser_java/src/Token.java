@@ -1,6 +1,6 @@
 public class Token {
   public enum Type {
-    NUMBER, PLUS, MINUS, MULTIPLY, DIVIDE, RPAREN, LPAREN
+    NUMBER, PLUS, MINUS, MULTIPLY, DIVIDE
   }
 
   public final Type type;
